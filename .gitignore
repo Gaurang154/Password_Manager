@@ -1,0 +1,4 @@
+.venv/
+vault.json
+__pycache__/
+key.key
